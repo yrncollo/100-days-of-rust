@@ -1,0 +1,1 @@
+/home/yrncollo/Desktop/100-days-of-rust/Week-01/Day-01_Convert-Ages-To-Days/convert-age-to-days/target/debug/convert-age-to-days: /home/yrncollo/Desktop/100-days-of-rust/Week-01/Day-01_Convert-Ages-To-Days/convert-age-to-days/src/calc_age.rs /home/yrncollo/Desktop/100-days-of-rust/Week-01/Day-01_Convert-Ages-To-Days/convert-age-to-days/src/main.rs
